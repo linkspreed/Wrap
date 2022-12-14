@@ -1,4 +1,4 @@
-# <img align="left" alt="Wrap" width="100px" src="https://wrap.gq/images/light-logo.png" draggable="false" />  ([Click to try 🚀](https://wrap.tk/))
+# <img align="left" alt="Wrap" width="200px" src="https://wrap.gq/images/light-logo.png" draggable="false" />  ([Click to try 🚀](https://wrap.gq/))
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 

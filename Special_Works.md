@@ -1,28 +1,45 @@
-### 18.10.2022 (announcement Analytix)
-- The entire changelog up to version 3.4.0 is now available on Github.
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
+### 08.12.2022 (announcement Wrap)
+- The SMTP and Mail Server for **Wrap** is working now. 📧
 
-### 18.10.2022 (announcement Analytix)
-- Version 3.4.0 has been released successfully. 😺
+### 08.12.2022 (announcement Wrap)
+- Further development work on **Wrap** ... 🫔
 
-### 18.10.2022 (announcement Analytix)
-- We are starting to launch version 3.4.0 now :)
+### 05.12.2022 (announcement Wrap)
+- The Free & Unlimited plan for **Wrap** is finally here! 🥳
+- https://user-images.githubusercontent.com/102324985/205734767-97653c55-faa2-49c0-aef2-bf44ad16c534.png
 
-### 18.10.2022 (announcement Analytix)
-- The servers and code are ready for the new update!
+### 05.12.2022 (announcement Wrap)
+- We're still working on **Wrap**.
 
-### 18.10.2022 (announcement Analytix)
-- We will now launch and release version 3.4.0 for **Analytix**.
+### 04.12.2022 (announcement Wrap)
+- **Wrap** has been successfully added to the Google Search Console!
 
-# 18.10.2022
-  - We are working on an new update
+### 04.12.2022 (announcement Wrap)
+- **Wrap** has been successfully added to the Cloudflare network!
 
-# 21.07.2022
-  - The new version 3.3.0 is publicly freely available. The changes are all in the changelog.
+### 04.12.2022 (announcement Wrap)
+- We're adding **Wrap** to the Cloudflare infrastructure now!
 
-# 21.07.2022
-  - We will release a **new version v3.3.0** soon.
+### 30.11.2022 (announcement Wrap)
+- Soon we will be able to introduce you to **Wrap** in the BETA phase. :D
 
-# 11.06.2022
-  - Today on June 11th, 2022 we connected and pushed **Analytix** to the Cloudflare infrastructure.
-     - This improves both **speed** and **safety**.
+### 30.11.2022 (announcement Wrap)
+- We have connected **Wrap** to the cloud but are still working on a stable connection in the next few days! 🫔
+
+### 30.11.2022 (announcement NodX)
+- We have improved the download page for **NodX** and removed unnecessary text areas! 🚀
+
+### 30.11.2022 (announcement Wrap)
+- We're still working on **Wrap**.
+
+### 29.11.2022 (announcement Wrap)
+- We continue to work on **Wrap**.
+
+### 28.11.2022 (announcement Wrap)
+- We continue to work on **Wrap**. 🫔
+
+### 27.11.2022 (announcement Wrap)
+- We continue to work on a new platform called **Wrap**. 🫔
+
+### 26.11.2022 (announcement Wrap)
+- **Wrap** 🫔

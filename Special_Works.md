@@ -1,3 +1,6 @@
+### 14.12.2022 (announcement Wrap)
+- We'll release the new version v1.7 for **Wrap** very soon!
+
 ### 08.12.2022 (announcement Wrap)
 - The SMTP and Mail Server for **Wrap** is working now. 📧
 

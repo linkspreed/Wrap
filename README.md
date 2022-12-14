@@ -4,8 +4,8 @@ Wrap 🌯 - Get Unlimited Cloud ☁️ Storage & Wrap Your Files! 🗂️
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🌯](https://github.com/linkspreed/Wrap/blob/main/changelog.md)** **Check out the full Wrap changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Wrap/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Wrap besides development**
 
 
 <div align="center">

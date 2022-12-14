@@ -55,7 +55,7 @@ Wrap 🌯 - Get Unlimited Cloud ☁️ Storage & Wrap Your Files! 🗂️
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
+Wrap is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -66,7 +66,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ You can enjoy Wrap freely and use all features to an unlimited extent.
 
 ## 📷 UI
 

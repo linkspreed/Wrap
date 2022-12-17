@@ -1,3 +1,6 @@
+### 17.12.2022 (announcement Wrap)
+- Still working on v17 for **Wrap**!
+
 ### 16.12.2022 (announcement Wrap)
 - We're still working on **Wrap**!
 

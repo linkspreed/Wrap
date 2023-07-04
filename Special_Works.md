@@ -1,3 +1,6 @@
+### 04.07.2023 (announcement Wrap)
+- 📢 Exciting news! 🎉 We just added Wrap to our Subdomain system. 🌐🔗 Now, https://wrap.gq will redirect you to https://wrap.linkspreed.com. No worries, everything stays the same for you! 🙌📊 Have you already tried it out? Let us know how it's going! 😊 #Wrap #Subdomain #Upgrade
+
 ### 17.12.2022 (announcement Wrap)
 - we continue working on v1.7 for **Wrap**!
 
